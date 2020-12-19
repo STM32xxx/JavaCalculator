@@ -1,0 +1,1 @@
+cd "SourceCode" && java Main
